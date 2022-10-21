@@ -1,5 +1,7 @@
 # projeto-web-site
+````
 Projeto de Web Site feito em VUE.JS com uso da API Axios.
+```
 
 ## Project setup
 ```
