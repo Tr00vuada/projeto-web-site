@@ -4,7 +4,7 @@
             <a href="/">
                 <img alt="Antifa !" 
                 id="logo" src=
-                "https://freeblmsigns.org/signs/antifa-three-arrows/antifa-three-arrows.svg">
+                "https://s4.aconvert.com/convert/p3r68-cdx67/avsr8-8mlme.svg">
             </a>
 
             <img alt="Abrir Menu" 
@@ -19,7 +19,7 @@
 
                 <img alt="Antifa !" 
                 id="menu-logo" src=
-                "https://freeblmsigns.org/signs/antifa-three-arrows/antifa-three-arrows.svg">
+                "https://s4.aconvert.com/convert/p3r68-cdx67/avsr8-8mlme.svg">
 
                 <ul>
                     <li>
@@ -72,7 +72,7 @@
     }
     
     #logo{
-        width: 50px;
+        width: 70px;
     }
 
     #menu-button{
@@ -98,7 +98,7 @@
     }
 
     #menu-logo{
-        width: 55px;
+        width: 100px;
         margin-top: 30px;
         margin-bottom: 10px;
     }
